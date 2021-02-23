@@ -10,4 +10,6 @@ public class MsscBreweryApplication {
 		SpringApplication.run(MsscBreweryApplication.class, args);
 	}
 
+
+
 }
