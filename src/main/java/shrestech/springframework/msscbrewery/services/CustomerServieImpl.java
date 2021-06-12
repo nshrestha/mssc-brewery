@@ -1,6 +1,6 @@
-package guru.springframework.msscbrewery.services;
+package shrestech.springframework.msscbrewery.services;
 
-import guru.springframework.msscbrewery.web.model.CustomerDto;
+import shrestech.springframework.msscbrewery.web.model.CustomerDto;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;
